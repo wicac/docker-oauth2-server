@@ -1,0 +1,19 @@
+{
+  "name": "docker-oauth2-server",
+  "version": "1.0.0",
+  "description": "Oauth2 server on top of Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wicac/docker-oauth2-server.git"
+  },
+  "author": "wicac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wicac/docker-oauth2-server/issues"
+  },
+  "homepage": "https://github.com/wicac/docker-oauth2-server/#readme"
+}
